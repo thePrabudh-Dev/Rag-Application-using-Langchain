@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment
+.env
+.venv
+venv/
+ENV/
+
+# Vector Store
+/vector_store/
+
+# IDE files
+.idea/
+.vscode/
